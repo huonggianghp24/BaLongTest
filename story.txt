@@ -1,1 +1,1 @@
-
+print("ghéc Trần Bá Long")
